@@ -1,0 +1,48 @@
+
+body{
+    background-color: green;
+    color: white;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+img{
+    margin-left: 25%;
+    width: 50%;
+    border-style: double;
+    border-width: 5px;
+}
+
+#quote{
+    display: flex;
+    justify-content: center;    
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+    margin-left: 5%;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+
+/*
+#head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+*/
